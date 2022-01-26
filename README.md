@@ -1,4 +1,4 @@
-Title: Pac-Man-Perimeter-Tracing
+Title: PacMen Exercise
 
 Description: Watch Pac-Man as he follows the perimeter of the page. Pac-Man was rotated so that he is always in the correct orientation.
 
